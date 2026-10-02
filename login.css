@@ -29,10 +29,9 @@
 .login-box__title {
     font-size: 26px;
     font-weight: 700;
-    text-align: left;
+    text-align: center;
     margin-bottom: 24px;
     color: rgba(10, 20, 58, 1);
-    margin-bottom: 10px;
 }
 
 .login-box__form {
@@ -61,3 +60,13 @@
     cursor: pointer;
     margin-top: 8px;
 }
+
+.login-box__create-account {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(196, 196, 196, 1);
+}
+
